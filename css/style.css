@@ -70,6 +70,10 @@ section#work .section-title{
   margin-top: 35px;
 }
 
+section#work2 .section-title{
+  margin-top: 35px;
+}
+
 .bottom-line {
   height: 2px;
   width: 3rem;
@@ -397,5 +401,8 @@ section#work .section-title {
     margin-top: 0px;
 }
 
+section#work2 .section-title {
+    margin-top: 0px;
 }
 
+}
